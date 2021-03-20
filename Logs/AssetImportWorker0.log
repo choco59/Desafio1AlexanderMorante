@@ -1,0 +1,39 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'es' Physical Memory: 16315 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Programas Instalados\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/I-2021/MATERIAS/REALIDAD_AUMENTADA/ArcoreDesafio1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+28586
+Successfully changed project path to: E:/I-2021/MATERIAS/REALIDAD_AUMENTADA/ArcoreDesafio1
+E:/I-2021/MATERIAS/REALIDAD_AUMENTADA/ArcoreDesafio1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 86.34 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 2.44 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path E:/Programas Instalados/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/I-2021/MATERIAS/REALIDAD_AUMENTADA/ArcoreDesafio1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K4000M (ID=0x11bd)
+    Vendor:   
+    VRAM:     4052 MB
+    Driver:   25.21.14.2625
+Initialize mono
+Mono path[0] = 'E:/Programas Instalados/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Programas Instalados/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Programas Instalados/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56708
+Begin MonoManager ReloadAssembly
